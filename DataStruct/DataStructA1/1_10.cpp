@@ -132,8 +132,7 @@ void searchFavourite(Book book[], int len, string content)
         cout<<jud<<endl;
         print(temp, jud);
     }
-
-    
+    printf("wocao0");    
 }  
 
 void searchBest(Book book[], int len, int num)

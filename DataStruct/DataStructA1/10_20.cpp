@@ -5,9 +5,9 @@ using namespace std;
 
 struct Data
 {
-    string num;
-    string name;
-    float price;
+    string num; //存储书籍编号
+    string name; //存储书籍名称
+    float price; //存储书籍价格
 };
 
 struct LNode
